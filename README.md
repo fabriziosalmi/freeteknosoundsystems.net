@@ -4,6 +4,8 @@ The aim of this project is to create and mantain a **free tekno sound system ope
 
 ## Contribute to the project
 
+[Mail me](mailto:fabrizio.salmi@gmail.com) some missing data or controbute to the project with a GitHub account:
+
 1. Clone the repo to your local device:
 
 - `git clone https://github.com/fabriziosalmi/freeteknosoundsystems.net.git`
